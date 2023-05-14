@@ -1,0 +1,51 @@
+#qna{
+    display:none;
+    background-color: white;
+    width: 80%;
+    text-align: center;
+    border-radius: 20px;
+    background-color: bisque;
+}
+
+.qnaTopic {
+    font-weight: 600;
+}
+
+.qnaImg {
+    border-width: 2px;
+    border-color: black;
+    border-style: solid;
+    border-radius: 20px;
+    background-color: whitesmoke;
+}
+
+
+.answer {
+    background-color: whitesmoke;
+    text-align: center;
+    border-radius: 10px;
+    display: block;
+    width: 100%;
+    border: 0px;
+    font-size: 17px;
+}
+
+.answer:hover, .answer:focus {
+    background-color: orange;
+    color: whitesmoke;
+}
+
+.continue {
+    height: 25px;
+    width: 80%;
+    background-color: rgba(165, 42, 42, 0.432);
+    border-radius: 20px;
+} 
+
+
+.continueBar {
+    height: 100%;
+    border-radius: 20px;
+    background-color: brown;
+    color: whitesmoke;
+}

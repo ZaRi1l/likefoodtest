@@ -1,0 +1,123 @@
+#conclusion {
+    display:none;
+    background-color: white;
+    width: 80%;
+    text-align: center;
+    border-radius: 20px;
+    background-color: bisque;
+}
+
+
+.conclusionTopic {
+    font-weight: 600;
+}
+
+.conclusionContent {
+    border-width: 2px;
+    border-color: black;
+    border-style: solid;
+    border-radius: 20px;
+    background-color: whitesmoke;
+}
+
+.result {
+    height: 25px;
+    width: 80%;
+    background-color: rgba(165, 42, 42, 0.432);
+    border-radius: 20px;
+} 
+
+
+.resultBar {
+    height: 100%;
+    border-radius: 20px;
+    background-color: brown;
+    color: whitesmoke;
+}
+
+.rt {
+    border: 2px solid;
+    border-color: orange;
+    border-radius: 10px;
+    width: 100%;
+}
+
+#report {
+    border: 2px solid;
+    border-collapse: collapse;
+    border-style: hidden;
+    border-radius: 10px;
+    border-color: orange;
+    margin: 0;
+    width: 100%;
+}
+
+#report tr td {
+    border: 1px solid;
+    border-collapse: collapse;
+    padding: 5px;
+    border-color: orange;
+}
+
+.tword {
+    color: red;
+    font-weight: 800;
+}
+
+.restart {
+    background-color: orange;
+    color: white;
+    border-radius: 10px;
+    border-color: orange;
+    font-weight: 600;
+    display: block;
+}
+
+.restart:hover, .restart:focus {
+    background-color: white;
+    color: orange;
+    border-radius: 10px;
+    border-color: white;
+    font-weight: 600;
+    display: block;
+}
+
+
+.share {
+    background-color: #3A1D1D;
+    color: #F7E600;
+    border-radius: 10px;
+    border-color: #3A1D1D;
+    font-weight: 600;
+}
+
+.share:hover, .share:focus {
+    background-color: #F7E600;
+    color: #3A1D1D;
+    border-radius: 10px;
+    border-color: #F7E600;
+    font-weight: 600;
+}
+
+.clip {
+    background-color: whitesmoke;
+    color: gray;
+    border-radius: 10px;
+    border-color: whitesmoke;
+    font-weight: 600;
+}
+
+.clip:hover, .clip:focus {
+    background-color: gray;
+    color: whitesmoke;
+    border-radius: 10px;
+    border-color: gray;
+    font-weight: 600;
+}
+
+
+#in {
+    display: block;
+    opacity: 0;
+}
+

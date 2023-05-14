@@ -1,0 +1,41 @@
+음식 호불호 테스트
+
+1.마라
+2.브로콜리
+3.민트초코
+4.번데기
+5.닭발
+6.양고기
+7.생강
+8.홍어
+9.피망
+10.굴
+11.선지
+12.고수
+13.파인애플피자
+14.두리안
+
+1.Mara
+2. Broccoli
+3. Mint chocolate
+4. Chrysalis
+5. Chicken Feet
+6. Lamb meat
+7. Ginger cavity
+8. Skate
+9. Appeal
+10. Oyster
+11. Seonji
+12. Master
+13. Pineapple Pizza
+14. Durian
+
+
+0 ~ 28
+
+0 ~ 3 호불호 뉴비
+4 ~ 9 호불호 초보
+10 ~ 17 호불호 중수
+18 ~ 23 호불호 고수
+24 ~ 27 호불호 고인물
+28 호불호 마왕

@@ -1,0 +1,39 @@
+#main {
+    background-color: white;
+    width: 80%;
+    text-align: center;
+    border-radius: 20px;
+    background-color: bisque;
+}
+
+p {
+    font-size: 20px;
+}
+
+.mainTopic {
+    font-weight: 600;
+}
+
+.mainImg {
+    border-width: 2px;
+    border-color: black;
+    border-style: solid;
+    border-radius: 20px;
+    background-color: whitesmoke;
+}
+
+.start {
+    background-color: orange;
+    color: white;
+    border-radius: 10px;
+    border-color: orange;
+    font-weight: 600;
+}
+
+.start:hover, .start:focus {
+    background-color: white;
+    color: orange;
+    border-radius: 10px;
+    border-color: white;
+    font-weight: 600;
+}
