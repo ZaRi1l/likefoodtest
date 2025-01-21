@@ -26,4 +26,4 @@
 
 ### 프로젝트 설명 + 후기
 https://stellacode.tistory.com/entry/%EC%9D%8C%EC%8B%9D-%ED%98%B8%EB%B6%88%ED%98%B8-%ED%85%8C%EC%8A%A4%ED%8A%B8
-<br/>웹 1인 개발
+<br/>웹 1인 개발, 독학
